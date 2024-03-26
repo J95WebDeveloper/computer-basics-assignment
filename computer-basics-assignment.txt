@@ -1,0 +1,80 @@
+﻿Computer Basics Assignment
+
+
+
+
+
+
+1. What is a Computer?
+     Ans -  A Computer is an electronic device that manipulates information or data. 
+               It has the ability to store, retrieve and process data. Computer can be used to     
+               perform a wide range of tasks, from basics calculations to complex operations.    
+
+
+
+
+2. What is RAM?
+     Ans -  RAM stands for random access memory. is a hardware device generally
+               located on the motherboard of CPU. it is a read and write memory of a 
+               computer, which means the information can be written to it as well as read
+               from it.  
+
+
+
+
+3. Where is data stored in a computer?
+     Ans -  A computer can store data on a variety of storage media, including a hard
+               disk drive (HDD), solid state drive (SDD), RAM, ROM, and external storage
+               media like a USB flash drive or external hard drive, RAM is a volatile memory, 
+               ROM is a non volatile memory, hard drives use magnetic disks.
+
+
+
+
+4. What is the input device used to type text and numbers on a document in the 
+computer system?
+     Ans -  A keyboard is the most fundamental input device for any computer system. 
+               it contains keys for letters and numbers as well as for specialized tasks, such
+               as Enter, Delete, etc.      
+
+
+
+
+5. What are the output devices?
+     Ans -  Output devices are : 
+                                        1. Monitor
+                                        2. Printer
+                                        3. Plotter
+                                        4. Speakers
+                                        5. Sound Card
+                                        6. Headphones
+
+
+      6.  Which is the input device that allows a user to move the cursor or pointer on the 
+           Screen?
+      Ans -  The Mouse is the input device that allows a user to move the cursor or pointer
+                 on the screen.
+
+
+
+
+      7.  Which language is directly understood by the computer without a translation
+           program?
+      Ans -  The language that a computer can understand directly without a translation
+                 program is called Machine language or Assembly language. The computer’s
+                 processor can directly interpret and execute it. Since it is written in binary
+                 digits 0 or 1 this is lowest level language.
+
+
+
+
+      8.  What are the input devices?
+      Ans -  Input devices are : 
+                                         1. Keyboard
+                                         2. Mouse
+                                         3. Touchpad
+                                         4. Scanner   
+                                         5. Web Camera
+                                         6. Microphone
+                                         7. Light pen
+                                         8. Joy stick
